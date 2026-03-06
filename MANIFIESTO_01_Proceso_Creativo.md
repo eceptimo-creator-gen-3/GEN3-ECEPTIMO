@@ -28,8 +28,7 @@ La IA no puede atravesar el proceso por vos.
 
 ## El proceso es la obra
 
-Cuando ECEPTIMO compone, cada decisión queda registrada.  
-Cada cambio, cada hito, cada momento donde algo no funcionó y se corrigió.
+Cuando ECEPTIMO compone, cada decisión queda documentada.
 
 Eso no es burocracia creativa.  
 Es evidencia de que hay un proceso humano real detrás del resultado.
@@ -65,5 +64,5 @@ Sino porque es la única forma honesta de hacer música en este momento.
 
 ---
 
-*Este manifiesto es parte del sistema GEN3-ECEPTIMO.*  
+*Este manifiesto es parte del sistema GEN3-ECEPTIMO.*
 *Fecha de fijación: Febrero 2026.*
