@@ -61,7 +61,7 @@ Lo que está acá es la identidad y el marco conceptual del proyecto.
 
 Contacto
 📧 eceptimo@gmail.com
-🎵 YouTube → próximamente el link
+🎵 YouTube → (https://linktw.in/EMKCkh)
 📍 Berazátegui, Argentina
 
 ECEPTIMO crea música con proceso humano documentado.
