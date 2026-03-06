@@ -35,7 +35,7 @@ Detecta cuándo el artista está proyectando vs ejecutando
 La arquitectura corre sobre n8n + Telegram + Google Sheets.
 Cada acción del proyecto queda registrada. Nada queda en el aire.
 
-Las 4 trampas.
+Cuadro de Posición 
 El sistema clasifica cada situación antes de actuar:
 Cuadrante, Descripcion.
 1️⃣ridad = identificacion, Visión, intención, dirección futura 
