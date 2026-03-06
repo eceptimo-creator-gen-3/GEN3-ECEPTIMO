@@ -22,6 +22,7 @@ El Sistema — GEN3 + E-GEN IA MANAGER.
 
 GEN3 es un sistema de orden.
 No es una app. No es una técnica motivacional.
+Es Arquitectura cognitiva.
 Sirve para ubicarse primero, decidir después, actuar al final.
 E-GEN IA MANAGER es la evolución operativa de GEN3.
 Funciona como cerebro operativo estratégico del proyecto:
@@ -34,10 +35,10 @@ Detecta cuándo el artista está proyectando vs ejecutando
 La arquitectura corre sobre n8n + Telegram + Google Sheets.
 Cada acción del proyecto queda registrada. Nada queda en el aire.
 
-Los 4 Cuadrantes del Sistema
+Las 4 trampas.
 El sistema clasifica cada situación antes de actuar:
 Cuadrante, Descripcion.
-1️⃣ridad = identificacion🆔 Visión, intención, dirección futura 
+1️⃣ridad = identificacion, Visión, intención, dirección futura 
 2️⃣ridad = Hechos concretos, acciones ejecutadas, resultados verificables
 3️⃣ridad  = Estructura, reglas, arquitectura del sistema
 4️⃣ridad =  Navegación estratégica hacia objetivo claro
