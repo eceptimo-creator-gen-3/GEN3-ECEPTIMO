@@ -18,7 +18,8 @@ ECEPTIMO entendió que caer no lo define. Levantarse, sí.
 Donde no hay proceso, no hay obra."
 
 
-El Sistema — GEN3 + E-GEN IA MANAGER
+El Sistema — GEN3 + E-GEN IA MANAGER.
+
 GEN3 es un sistema de orden.
 No es una app. No es una técnica motivacional.
 Sirve para ubicarse primero, decidir después, actuar al final.
