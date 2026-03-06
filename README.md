@@ -44,6 +44,10 @@ Funciona como cerebro operativo estratégico del proyecto.
 ---
 
 ## Cuadro de Posición
+Los cuadrantes son estados mentales desde donde abordamos cada situación.
+Cada estado tiene una cara que suma y una que estanca. Identificar en cuál 
+estás operando permite diagnosticar desde dónde estás actuando — y cómo salir 
+de ese lugar cuando el ego te posiciona ahí por defensa.
 
 | Cuadrante | Estado |
 |---|---|
