@@ -23,10 +23,6 @@ ECEPTIMO usa inteligencia artificial.
 Lo dice abiertamente.  
 No lo esconde ni lo romantiza.
 
-La IA registra hitos.  
-La IA ordena decisiones.  
-La IA mantiene coherencia operativa.
-
 La IA no compone.  
 La IA no siente el acorde que no cierra.  
 La IA no sabe por qué esa letra y no otra.
@@ -51,20 +47,14 @@ Para que el artista pueda ser artista sin perder dirección.
 
 ## Qué hace el sistema
 
-- Ubica la situación antes de actuar
-- Separa visión de ejecución
-- Registra lo que se hizo con fecha y resultado
-- Detecta cuándo se está proyectando en lugar de avanzando
-- Mantiene coherencia en el tiempo
+El sistema ubica, separa, registra y mantiene coherencia.
 
 ---
 
 ## Qué no hace el sistema
 
-- No genera épica donde no hay hechos
-- No suaviza decisiones necesarias
-- No completa vacíos con optimismo
-- No reemplaza la ejecución humana
+No genera épica donde no hay hechos.  
+No reemplaza la ejecución humana.
 
 ---
 
