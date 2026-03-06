@@ -35,15 +35,12 @@ Detecta cuándo el artista está proyectando vs ejecutando
 La arquitectura corre sobre n8n + Telegram + Google Sheets.
 Cada acción del proyecto queda registrada. Nada queda en el aire.
 
-Cuadro de Posición 
-El sistema clasifica cada situación antes de actuar:
-Cuadrante, Descripcion.
-1️⃣ridad = identificacion, Visión, intención, dirección futura 
-2️⃣ridad = Hechos concretos, acciones ejecutadas, resultados verificables
-3️⃣ridad  = Estructura, reglas, arquitectura del sistema
-4️⃣ridad =  Navegación estratégica hacia objetivo claro
-
-La Regla Madre
+CuadranteEstado
+PRIMERIDAD   Nivel   1
+SEGUNDIDAD   Nivel   2
+TERCERIDAD   Nivel   3
+CUARTIDAD    Nivel   4
+La Regla Madre  
 
 Si no cambió una variable real, no se decide.
 
