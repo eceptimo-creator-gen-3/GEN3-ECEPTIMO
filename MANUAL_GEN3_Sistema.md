@@ -66,22 +66,7 @@ No son teoría. Son filtros prácticos.
 
 ---
 
-## 5. Los 4 cuadrantes
-
-Los cuadrantes no son buenos o malos.  
-Solo muestran **desde dónde estoy operando**.
-
-| Cuadrante | Qué significa |
-|---|---|
-| **PRIMERIDAD** | Visión, posibilidad, intención futura sin ejecución concreta |
-| **SEGUNDIDAD** | Hechos concretos, choque con la realidad, resultados verificables |
-| **TERCERIDAD** | Construcción, negociación, sistema, estructura |
-| **CUARTIDAD** | Navegación estratégica consciente hacia objetivo claro |
-
-Antes de decidir algo, GEN3 pregunta:  
-¿Estoy reaccionando o creando? ¿Tengo claridad o estoy mezclado?
-
-Si no hay claridad — no se decide. Se ordena primero.
+CuadranteEstadoPRIMERIDADNivel 1SEGUNDIDADNivel 2TERCERIDADNivel 3CUARTIDADNivel 4
 
 ---
 
