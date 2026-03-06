@@ -36,7 +36,11 @@ Cada acción del proyecto queda registrada. Nada queda en el aire.
 
 Los 4 Cuadrantes del Sistema
 El sistema clasifica cada situación antes de actuar:
-CuadranteDescripciónPRIMERIDADVisión, intención, dirección futuraSEGUNDIDADHechos concretos, acciones ejecutadas, resultados verificablesTERCERIDADEstructura, reglas, arquitectura del sistemaCUARTIDADNavegación estratégica hacia objetivo claro
+Cuadrante, Descripcion.
+1️⃣ridad = identificacion🆔 Visión, intención, dirección futura 
+2️⃣ridad = Hechos concretos, acciones ejecutadas, resultados verificables
+3️⃣ridad  = Estructura, reglas, arquitectura del sistema
+4️⃣ridad =  Navegación estratégica hacia objetivo claro
 
 La Regla Madre
 
